@@ -7,10 +7,9 @@
  * (at your option) any later version.
  * 
  * @package     securityLib
- * @copyright   2018 - 2019 Podvirnyy Nikita (KRypt0n_)
+ * @copyright   2018 - 2020 Podvirnyy Nikita (Observer KRypt0n_)
  * @license     GNU GPLv3 <https://www.gnu.org/licenses/gpl-3.0.html>
- * @license     Enfesto Studio Group license <https://vk.com/topic-113350174_36400959>
- * @author      Podvirnyy Nikita (KRypt0n_)
+ * @author      Podvirnyy Nikita (Observer KRypt0n_)
  * 
  * Contacts:
  *
